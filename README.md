@@ -1,5 +1,6 @@
 # Move.it (ReactJS & Next.js)
 
+![home](./screenshots/home.png)
 Desafio da Next Level Week #NLW4 da Rocketseat
 
 - [Move.it (ReactJS & Next.js)](#moveit-reactjs--nextjs)
@@ -7,6 +8,7 @@ Desafio da Next Level Week #NLW4 da Rocketseat
   - [Technologies](#technologies)
   - [Installation](#installation)
   - [Roadmap](#roadmap)
+  - [Screenshots](#screenshots)
   - [License](#license)
 
 ## Usage
@@ -47,7 +49,20 @@ yarn dev
 - (**TODO**) Creates backend project;
 - (**TODO**) Creates mobile project;
 - (**TODO**) Implements advanced features;
+- Responsive app;
+- PWA app;
+- Dark theme;
+- Login with github;
+- Sidebar;
+- Ranking;
+- Share at Twitter;
 - Refactoring to improve the code readability;
+
+## Screenshots
+
+![In Progress](./screenshots/in_progress.png)
+![New Challenge](./screenshots/new_challenge.png)
+![Level Up](./screenshots/level_up.png)
 
 ## License
 
