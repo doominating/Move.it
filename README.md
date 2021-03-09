@@ -46,10 +46,10 @@ yarn dev
 ## Roadmap
 
 - (**DONE**) Creates frontend project;
+- (**DONE**)Dark theme;
 - (**TODO**) Creates backend project;
 - (**TODO**) Creates mobile project;
 - (**TODO**) Implements advanced features;
-- (**DONE**)Dark theme;
 - Responsive app;
 - PWA app;
 - Login with github;
